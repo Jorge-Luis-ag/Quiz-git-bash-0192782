@@ -1,0 +1,1 @@
+1) pwd |2) ls |3) cd Nombre del archivo |4) mkdir |5) touch |6) git log |7) git init |8) rm Documento a borrar

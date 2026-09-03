@@ -1,0 +1,1 @@
+En este quiz vamos a hacer varias carpetas donde tenemos que guardar un texto correspondiente a estas, todo esto en el terminal de git bash, para luego vincularlo con nuestro repositorio de git hub
